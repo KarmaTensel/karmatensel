@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ich bin Tensel. Wie geht's? 👋
 
 <!--
 **KarmaTensel/karmatensel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
